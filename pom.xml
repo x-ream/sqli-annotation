@@ -7,6 +7,9 @@
     <groupId>io.xream.sqli</groupId>
     <artifactId>sqli-annotation</artifactId>
     <version>1.0.0</version>
+    <description>http://sqli.xream.io</description>
+    <packaging>jar</packaging>
+    <url>http:/sqli.xream.io</url>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
